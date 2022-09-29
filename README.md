@@ -1,3 +1,3 @@
 # cool_stuff
 
-Just going to be adding cool programs to this repositories
+Adding cool programs to this repositories
