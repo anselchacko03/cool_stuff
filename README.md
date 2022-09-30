@@ -1,7 +1,7 @@
 # **cool_stuff**
 
 ## heapsAlgorithm.java
-I completed this program using the java programming language. I implemented Heap's algorithm which can be used to get all permutations of a variable amount of objects. Heap's Algorithm was originally proposed by B.R Heap in 1963. In this program I also implemented a method to make sure the current created permuation is unique (), so there won't be any duplicates in the output.
+I completed this program using the java programming language. I implemented Heap's algorithm which can be used to get all permutations of a variable amount of objects. Heap's Algorithm was originally proposed by B.R Heap in 1963. In this program I also implemented a method to make sure the current created permuation is unique (permuteUnique()), so there won't be any duplicates in the output.
 
 
 ## monty_hall.py
